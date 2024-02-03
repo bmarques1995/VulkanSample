@@ -1,0 +1,39 @@
+[submodule "modules/glfw"]
+	path = modules/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "modules/glm"]
+	path = modules/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "modules/dxc"]
+	path = modules/dxc
+	url = https://github.com/microsoft/DirectXShaderCompiler.git
+[submodule "modules/vulkan_headers"]
+	path = modules/vulkan_headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+[submodule "modules/vulkan_loader"]
+	path = modules/vulkan_loader
+	url = https://github.com/KhronosGroup/Vulkan-Loader.git
+[submodule "modules/spirv_wrapper"]
+	path = modules/spirv_wrapper
+	url = https://github.com/bmarques1995/spirv_wrapper.git
+[submodule "modules/vulkan_extensions"]
+	path = modules/vulkan_extensions
+	url = https://github.com/KhronosGroup/Vulkan-ExtensionLayer.git
+[submodule "modules/vulkan_validation"]
+	path = modules/vulkan_validation
+	url = https://github.com/KhronosGroup/Vulkan-ValidationLayers.git
+[submodule "modules/valijson"]
+	path = modules/valijson
+	url = https://github.com/tristanpenman/valijson.git
+[submodule "modules/jsoncpp"]
+	path = modules/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "modules/vulkan_utilities"]
+	path = modules/vulkan_utilities
+	url = https://github.com/KhronosGroup/Vulkan-Utility-Libraries.git
+[submodule "modules/vulkan_profiles"]
+	path = modules/vulkan_profiles
+	url = https://github.com/KhronosGroup/Vulkan-Profiles.git
+[submodule "modules/vulkan_tools"]
+	path = modules/vulkan_tools
+	url = https://github.com/LunarG/VulkanTools.git
